@@ -1,8 +1,5 @@
 ### Bem-vindo ao meu Portfólio!
 
-<!--
-**Saik-7/Saik-7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 💡 Um pouco sobre mim.
 
 - 🔭 Atualmente estou trabalhando em JavaScript.
